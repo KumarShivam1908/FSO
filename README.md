@@ -15,7 +15,7 @@
 
 ## Data
 
-The dataset is stored in the `data/` directory. You should replace the placeholder dataset file with your own data. Ensure that the data is in a CSV format with columns "Visibility Range," "SNR," and "Power."
+The dataset is stored in the `Dataset/` directory. You should replace the placeholder dataset file with your own data. Ensure that the data is in a CSV format with columns "Visibility Range," "SNR," and "Power."
 
 ## Model Training
 
