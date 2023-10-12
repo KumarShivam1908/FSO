@@ -11,7 +11,7 @@
      ```bash
      jupyter notebook
      ```
-   - Open the `linear_regression_power_prediction.ipynb` notebook and follow the code to train and evaluate the linear regression model.
+   - Open the `free-space-optical-communication.ipynb` notebook and follow the code to train and evaluate the linear regression model.
 
 ## Data
 
